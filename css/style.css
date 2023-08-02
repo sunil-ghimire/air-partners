@@ -484,3 +484,11 @@
 .footer .copyright a:hover {
     color: #FFFFFF;
 }
+
+.team-img {
+    height: 200px; /* Set your desired fixed height here */
+    object-fit: cover;
+    display: flex; /* Use Flexbox */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+}
